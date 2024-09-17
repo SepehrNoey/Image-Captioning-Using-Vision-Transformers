@@ -4,7 +4,7 @@ This project implements image captioning using a Vision Transformer (ViT) archit
 
 ## Demo
 
-Here is a sample result showing how the model captions images:
+Here are some (somewhat) <span style="color:#28ba07"> **accurate captions**</span> generated for images:
 
 |Image|Real Caption|Generated Caption|
 |-----|-----|-----|
@@ -13,7 +13,8 @@ Here is a sample result showing how the model captions images:
 |![COCO_val2014_000000140307](https://github.com/user-attachments/assets/1b81316b-3676-40c5-a4c9-9bdff6a9331e)| A group of people sitting around a table eating underneath an umbrella.|a group of people standing around a table with food.|
 |![COCO_val2014_000000036484](https://github.com/user-attachments/assets/36ed0ed9-3945-4055-9aa0-49c7dcd5c1f2)| a cat sitting on a desk on a piece of lined paper next to a computer, pen and computer mouse.|a cat is laying on a laptop computer.|
 
-However, the model generates many **inaccurate captions** too:
+However, the model generates many <span style="color:#FF6F6F"> **inaccurate captions**</span> too:
+
 |Image|Real Caption|Generated Caption|
 |-----|-----|-----|
 |![COCO_val2014_000000084270](https://github.com/user-attachments/assets/8ae9a532-7f61-465a-87f6-ab7b9656dd71)| A busy airport with many people walking around.|a street with people walking in the rain.|
