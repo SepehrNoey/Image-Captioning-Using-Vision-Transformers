@@ -1,4 +1,4 @@
-# Vision Transformer Image Captioning
+# Image Captioning Using Vision Transformers
 
 This project implements image captioning using a Vision Transformer (ViT) architecture. The model consists of a Vision Encoder and a Text Decoder built from scratch by basic PyTorch blocks. The goal is to generate descriptive captions for images using a transformer-based approach.
 
